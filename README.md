@@ -68,6 +68,7 @@ In this case the output should be:
 
 
 ***Validating Inputs***
+
  	1) from the validateSudokuChallenge directory run 'node validateSudoku.js'
 	2) you can change the solution input on line of 1 of validateSudoku.js
 	3) results displayed in console
